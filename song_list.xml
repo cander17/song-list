@@ -1,0 +1,64 @@
+<?xml-stylesheet href="style-sheet.css"?>
+<SETLIST>
+    <heading>Setlist</heading>
+    <RECORD>
+        <TITLE>Livin' On a Prayer</TITLE>
+        <ARTIST>Artist: Bon Jovi</ARTIST>
+        <GENRE>Genre: Rock</GENRE>
+        <YEAR>Year: 1986</YEAR>
+    </RECORD>
+    <RECORD>
+        <TITLE>We Found Love</TITLE>
+        <ARTIST>Artist: Rihanna</ARTIST>
+        <GENRE>Genre: Dance</GENRE>
+        <YEAR>Year: 2012</YEAR>
+    </RECORD>
+    <RECORD>
+        <TITLE>I Wanna Dance With Somebody</TITLE>
+        <ARTIST>Artist: Whitney Houston</ARTIST>
+        <GENRE>Genre: Pop</GENRE>
+        <YEAR>Year: 1987</YEAR>
+    </RECORD>
+    <RECORD>
+        <TITLE>Brazil</TITLE>
+        <ARTIST>Artist: Declan McKenna</ARTIST>
+        <GENRE>Genre: Indie</GENRE>
+        <YEAR>Year: 2014</YEAR>
+    </RECORD>
+    <RECORD>
+        <TITLE>The Sound</TITLE>
+        <ARTIST>Artist: The 1975</ARTIST>
+        <GENRE>Genre: Pop</GENRE>
+        <YEAR>Year: 2016</YEAR>
+    </RECORD>
+    <RECORD>
+        <TITLE>California Gurls</TITLE>
+        <ARTIST>Artist: Katy Perry</ARTIST>
+        <GENRE>Genre: Pop</GENRE>
+        <YEAR>Year: 2010</YEAR>
+    </RECORD>
+    <RECORD>
+        <TITLE>Please Don't Stop The Music</TITLE>
+        <ARTIST>Artist: Rihanna</ARTIST>
+        <GENRE>Genre: Pop</GENRE>
+        <YEAR>Year: 2007</YEAR>
+    </RECORD>
+    <RECORD>
+        <TITLE>She Moves in Her Own Way</TITLE>
+        <ARTIST>Artist: The Kooks</ARTIST>
+        <GENRE>Genre: Indie</GENRE>
+        <YEAR>Year: 2006</YEAR>
+    </RECORD>
+    <RECORD>
+        <TITLE>Harmony Hall</TITLE>
+        <ARTIST>Artist: Vampire Weekend</ARTIST>
+        <GENRE>Genre: ndie</GENRE>
+        <YEAR>Year: 2019</YEAR>
+    </RECORD>
+    <RECORD>
+        <TITLE>Nights</TITLE>
+        <ARTIST>Artist: Frank Ocean</ARTIST>
+        <GENRE>Genre: Pop/Soul</GENRE>
+        <YEAR>Year: 2016</YEAR>
+    </RECORD>
+</SETLIST>

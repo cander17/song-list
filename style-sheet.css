@@ -1,0 +1,32 @@
+SETLIST {
+    background-color: #ffffff;
+    width: 100%;
+}
+heading {
+    display: block;
+    background-color: #6EC483;
+    color: #ffffff;
+    font-size: 30pt;
+    text-align: center;
+}
+RECORD {
+    display: block;
+    margin-bottom: 5pt;
+    margin-top: 5pt;
+    margin-left: 0;
+    border-style: ridge;
+    width: 99%;
+}
+TITLE {
+    display: block;
+    margin-top: 5pt;
+    margin-bottom: 5pt;
+    color: #3D9352;
+    font-size: 20pt;
+}
+ARTIST, GENRE, YEAR {
+    display: block;
+    color: #686D69;
+    margin-left: 20pt;
+    font-size: 18pt;
+}
